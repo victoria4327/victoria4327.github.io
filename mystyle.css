@@ -3,8 +3,8 @@ body {
 }
 
 img {
-   max-width: 50%;
-   height: 50px;
+   height: 350px;
+   width: 50%;
  }
      
  img:hover {
