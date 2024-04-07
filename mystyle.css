@@ -10,3 +10,11 @@ img {
  img:hover {
    opacity: 0.9;
  }
+
+ ol {  
+   list-style-type: none;  
+   } 
+
+   ul {  
+   list-style-type: none;  
+   }  
