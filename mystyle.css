@@ -20,6 +20,10 @@ img {
    list-style-type: none;  
    }  
 
-   color {
+   .color {
     color:rgb(61, 20, 99)
    }
+
+.index {
+  background-color: rgb(254, 230, 255);
+}
